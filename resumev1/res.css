@@ -1,0 +1,30 @@
+p {
+ font-style: oblique
+}
+
+p.par {
+ font-style: normal
+}
+
+.prav {
+ color: rgb(0, 100, 000);
+ font-size: 130%;
+ font-family: Oswald;
+ text-align: center font-style: normal;
+ border-style: ridge
+}
+
+li {
+ font-style: oblique;
+ color: rgb(0, 0, 70);
+}
+
+b {
+ font-size: larger border:50px solid red;
+}
+
+body {
+
+ background-image: url(fon.jpg);
+
+}
