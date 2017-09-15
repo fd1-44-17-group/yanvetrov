@@ -1,0 +1,28 @@
+        .cards {
+            background-image:url(assets/img/cards2.png);
+            background-repeat: no-repeat;
+            width:140px;
+            height:190px;
+        }
+        .k { 
+         background-position-x: -145px;
+         
+        }
+        .p {  
+         
+        }
+        .b { background-position-x: -288px;
+         
+        }
+        .c { background-position-x: -430px;
+         
+        }
+        ._3 { background-position-y: -191px;
+         
+        }
+        ._7 { background-position-y: -967px;
+         
+        }
+        .ace {
+            background-position-y: -2325px;
+        }
