@@ -1,14 +1,21 @@
-.scnd {
-    margin-left:-12px;
+.main {
+    width: 25px;
 }
-.frst {
-    margin-right:-12px;
-    text-align: right
+.num {
+
 }
-._4{
-    margin-left:-24px;
+.left{
+    float: left
+    
 }
-.trh {
-    margin-right:-24px;
-    text-align: right
+.right {
+    float: right;
+}
+.left {
+    float: left;
+}
+
+.l {
+    float: clear;
+    
 }
