@@ -1,0 +1,19 @@
+.row {
+    height: 6vw;
+    width: 66vw;
+    float: left;
+}
+
+.cell {
+    width: 6vw;
+    height: 6vw;
+    border: 1px solid black;
+    font-size: 4vw;
+    text-align: center;
+    vertical-align: middle;
+    float: left;
+}
+
+.black {
+    background-color: black;
+}
